@@ -24,9 +24,9 @@
 
 基于 vue3.x + CompositionAPI + typescript + vite + element plus + vue-router-next + next.vuex，适配手机、平板、pc 的后台开源免费模板，希望减少工作量，帮助大家实现快速开发。
 
-#### 🚧 安装 cnpm、yarn
-
-- 复制代码(桌面 cmd 运行) `npm install -g cnpm --registry=https://registry.npm.taobao.org`
+#### 🚧 安装 pnpm、yarn
+选择一种方式即可，推荐pnpm
+- 复制代码(桌面 cmd 运行) `npm install -g pnpm --registry=https://registry.npm.taobao.org`
 - 复制代码(桌面 cmd 运行) `npm install -g yarn`
 
 #### 🏭 环境支持
@@ -42,9 +42,9 @@
 
 ```bash
 # 克隆项目
-git clone -b v3.2 https://gitee.com/tiger1103/gfast-ui.git
+git clone https://github.com/KURO-LIANG/uu-gfast-ui
 # 进入项目
-cd gfast-ui
+cd uu-gfast-ui
 # 安装依赖
 cnpm install
 # 运行项目
